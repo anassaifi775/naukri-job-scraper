@@ -4,14 +4,14 @@ This project scrapes job listings from [Naukri.com](https://naukri.com) using **
 
 ## 📂 Files Included
 - `Naukri_Scraper.ipynb`: Jupyter Notebook with the full scraping logic and data cleaning steps.
-- `Jobs_Cleaned.csv`: Final cleaned dataset ready for analysis or import to SQL.
+- `Jobs.csv`: Final dataset ready for analysis or import to SQL.
 
 ## 🛠️ Tools & Libraries
 - Python
 - Selenium
 - BeautifulSoup
 - Pandas
-- MySQL (for optional data storage)
+- MySQL 
 
 ## ⚙️ Features
 - Automated scraping with headless Chrome
